@@ -25,7 +25,7 @@ import themeConfig from './config/themeConfig'
 const octokit = new Octokit()
 const releaseDateCache = new Map<string, string>()
 
-const title = 'Mihon'
+const title = 'Tsundoku'
 const description = 'Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.'
 
 const env = loadEnv('', process.cwd())
@@ -54,7 +54,7 @@ export default defineConfig({
         let publishedAt = releaseDateCache.get(tag)
         if (!publishedAt) {
           try {
-            const { data } = await octokit.repos.getReleaseByTag({ owner: 'mihonapp', repo: 'mihon', tag })
+            const { data } = await octokit.repos.getReleaseByTag({ owner: 'tsundoku-otaku', repo: 'tsundoku', tag })
             publishedAt = data.published_at || data.created_at || ''
             if (publishedAt)
               releaseDateCache.set(tag, publishedAt)
@@ -68,8 +68,8 @@ export default defineConfig({
 
         const versionLabel = tag
         const desc = prettyDate
-          ? `Changelog for Mihon ${versionLabel}, released on ${prettyDate}`
-          : `Changelog for Mihon ${versionLabel}`
+          ? `Changelog for Tsundoku ${versionLabel}, released on ${prettyDate}`
+          : `Changelog for Tsundoku ${versionLabel}`
 
         pageData.frontmatter.description = pageData.frontmatter.description || desc
         pageData.title = pageData.frontmatter.title

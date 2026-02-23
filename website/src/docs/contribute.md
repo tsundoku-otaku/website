@@ -9,11 +9,11 @@ Find out how to help build the app.
 ## Code
 Know how to code and want to improve something or you generally want to support the creation of the app?
 
-<a href="https://github.com/mihonapp/mihon" target="_blank" rel="noopener">
+<a href="https://github.com/tsundoku-otaku/tsundoku" target="_blank" rel="noopener">
   <img
     class="only-light"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mihonapp&repo=mihon&bg_color=f6f6f7&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=false"
-    alt="mihonapp/mihon - GitHub"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=tsundoku-otaku&repo=tsundoku&bg_color=f6f6f7&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=false"
+    alt="tsundoku-otaku/tsundoku - GitHub"
     width="400"
     height="120"
     loading="lazy"
@@ -21,8 +21,8 @@ Know how to code and want to improve something or you generally want to support 
   />
   <img
     class="only-dark"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mihonapp&repo=mihon&bg_color=1a1a41&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true"
-    alt="mihonapp/mihon - GitHub"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=tsundoku-otaku&repo=tsundoku&bg_color=1a1a41&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true"
+    alt="tsundoku-otaku/tsundoku - GitHub"
     width="400"
     height="120"
     loading="lazy"
@@ -30,11 +30,11 @@ Know how to code and want to improve something or you generally want to support 
   />
 </a>
 
-<a href="https://github.com/mihonapp/website" target="_blank" rel="noopener">
+<a href="https://github.com/tsundoku-otaku/website" target="_blank" rel="noopener">
   <img
     class="only-light"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mihonapp&repo=website&bg_color=f6f6f7&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=false"
-    alt="mihonapp/website - GitHub"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=tsundoku-otaku&repo=website&bg_color=f6f6f7&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=false"
+    alt="tsundoku-otaku/website - GitHub"
     width="400"
     height="120"
     loading="lazy"
@@ -42,8 +42,8 @@ Know how to code and want to improve something or you generally want to support 
   />
   <img
     class="only-dark"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mihonapp&repo=website&bg_color=1a1a41&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true"
-    alt="mihonapp/website - GitHub"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=tsundoku-otaku&repo=website&bg_color=1a1a41&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true"
+    alt="tsundoku-otaku/website - GitHub"
     width="400"
     height="120"
     loading="lazy"
@@ -54,10 +54,10 @@ Know how to code and want to improve something or you generally want to support 
 ## Translation
 Find out how to help translate the app.
 
-<a href="https://hosted.weblate.org/engage/mihon/" target="_blank" rel="noopener">
+<a href="https://hosted.weblate.org/engage/tsundoku/" target="_blank" rel="noopener">
   <img
     class="only-light"
-    src="https://hosted.weblate.org/widget/mihon/287x66-grey.png"
+    src="https://hosted.weblate.org/widget/tsundoku/287x66-grey.png"
     alt="Translation stats - Weblate"
     width="287"
     height="66"
@@ -66,7 +66,7 @@ Find out how to help translate the app.
   />
   <img
     class="only-dark"
-    src="https://hosted.weblate.org/widget/mihon/287x66-grey.png"
+    src="https://hosted.weblate.org/widget/tsundoku/287x66-grey.png"
     alt="Translation stats - Weblate"
     width="287"
     height="66"
@@ -75,10 +75,10 @@ Find out how to help translate the app.
   />
 </a>
 
-<a href="https://hosted.weblate.org/engage/mihon/" target="_blank" rel="noopener">
+<a href="https://hosted.weblate.org/engage/tsundoku/" target="_blank" rel="noopener">
   <img
     class="only-light"
-    src="https://hosted.weblate.org/widget/mihon/horizontal-auto.svg"
+    src="https://hosted.weblate.org/widget/tsundoku/horizontal-auto.svg"
     alt="Translation progress - Weblate"
     width="760"
     height="200"
@@ -87,7 +87,7 @@ Find out how to help translate the app.
   />
   <img
     class="only-dark"
-    src="https://hosted.weblate.org/widget/mihon/horizontal-auto.svg"
+    src="https://hosted.weblate.org/widget/tsundoku/horizontal-auto.svg"
     alt="Translation progress - Weblate"
     width="760"
     height="200"
@@ -99,7 +99,7 @@ Find out how to help translate the app.
 Want to help translate the app to your language?
 You can easily help by utilizing a service we use called **Weblate**.
 
-> View translation project [here on Weblate](https://hosted.weblate.org/engage/mihon/).
+> View translation project [here on Weblate](https://hosted.weblate.org/engage/tsundoku/).
 
 ### Helpful links
 * [Translators guide](https://docs.weblate.org/en/latest/user/translating.html)

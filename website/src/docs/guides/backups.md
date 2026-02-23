@@ -58,7 +58,7 @@ Backups (with pre-selected items) will contain the following:
 - **Custom covers** applied to entries
 
 ::: tip
-To convert your backups to JSON or to view and edit the information outside of the app, you can use [Mihon Backup Viewer](https://github.com/Animeboynz/Mihon-Backup-Viewer).
+To convert your backups to JSON or to view and edit the information outside of the app, you can use [Tsundoku Backup Viewer](https://github.com/Animeboynz/Tsundoku-Backup-Viewer).
 :::
 
 ## Restoring a backup
@@ -74,8 +74,8 @@ The app will list any missing trackers and/or extensions in the Restore screen.
 :::
 
 ### Transferring downloads to a new installation
-During the setup or after restoring a backup to **Mihon**:
-1. In <nav to="data-and-storage">, double-check your specified [Storage location](/docs/faq/storage) that **Mihon** has access to.
+During the setup or after restoring a backup to **Tsundoku**:
+1. In <nav to="data-and-storage">, double-check your specified [Storage location](/docs/faq/storage) that **Tsundoku** has access to.
 1. Transfer or move your previously downloaded chapters into the "downloads" folder of your set Storage location.
 1. In <nav to="advanced">, tap on "Reindex downloads" to rescan your downloaded chapters.
 
@@ -111,14 +111,14 @@ It is highly recommended to enable automatic backups to ensure you can recover i
 :::
 
 ### Syncing backups with external cloud services
-Cross device sync in **Mihon** is not currently available, but users can use
+Cross device sync in **Tsundoku** is not currently available, but users can use
 [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite)
 in order to sync backup files to Drive automatically with the following steps:
 
 1. Install the FolderSync app from the link above.
 1. Enable [Automatic Backups](/docs/guides/backups#enabling-automatic-backups) and set it to your desired frequency.
 1. In the FolderSync app, navigate and select the "autobackup" folder to begin syncing to your preferred cloud service.
-1. On your second device, download the latest backup from your cloud service to restore into **Mihon**.
+1. On your second device, download the latest backup from your cloud service to restore into **Tsundoku**.
 
 Users who are familiar with [Autosync for Google Drive](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync)
 or [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) can setup auto sync of their backups similarly.
@@ -129,15 +129,15 @@ or [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.
 This section explores some extra details regarding restoring backups from [forks](/forks/).
 :::
 
-All **Mihon** (and **Tachiyomi**) [forks](/forks/) support the `.tachibk`/`.proto.gz` format to backup/restore your library.
+All **Tsundoku** (and **Tachiyomi**) [forks](/forks/) support the `.tachibk`/`.proto.gz` format to backup/restore your library.
 
 ### Fork-specific settings
 All forks have fork-specific settings and changes that are saved in their Backups. There are some limitations when restoring fork-specific backups:
   > For example: [TachiyomiSY](/forks/TachiyomiSY/) has the option to backup/restore saved searches.
 - Forks of forks (such as [TachiyomiJ2K](/forks/TachiyomiJ2K/) and [Yōkai](/forks/Yokai/)) could restore some if not all fork-specific settings, but it is not guaranteed.
-- These fork-specific settings will not be restored in **Mihon** and will be lost after restoring.
+- These fork-specific settings will not be restored in **Tsundoku** and will be lost after restoring.
 
 Only [TachiyomiAZ](/forks/TachiyomiAZ/) supports creating/restoring both legacy `.json` backups and `.proto.gz` backups.
   > Users are recommended to update their `.json` backups to use the improved and efficient `.tachibk`/`.proto.gz` backups.
 
-Be aware of these limitations when dealing with backups in different **Mihon** and **Tachiyomi** forks.
+Be aware of these limitations when dealing with backups in different **Tsundoku** and **Mihon** forks.

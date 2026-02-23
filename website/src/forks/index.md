@@ -1,6 +1,6 @@
 ---
 title: Endorsed Forks
-description: Forks are alternative versions of Mihon with exclusive features.
+description: Forks are alternative versions of Tsundoku with exclusive features.
 lastUpdated: false
 editLink: false
 prev: false
@@ -13,7 +13,7 @@ features:
     icon: <img src="/forks/logo-j2k.webp" alt="TachiyomiJ2K Logo" height="32" width="32">
     link: /forks/TachiyomiJ2K/
   - title: TachiyomiSY
-    details: Keeping up-to-date with Mihon while also adding exclusive features
+    details: Keeping up-to-date with Tsundoku while also adding exclusive features
     icon: <img src="/forks/logo-sy.webp" alt="TachiyomiSY Logo" height="32" width="32">
     link: /forks/TachiyomiSY/
   - title: TachiyomiAZ
@@ -25,7 +25,7 @@ features:
     icon: <img src="/forks/logo-yokai.webp" alt="Yokai Logo" height="32" width="32">
     link: /forks/Yokai/
   - title: Komikku
-    details: A fork with features from Sy and Mihon plus added personal flair.
+    details: A fork with features from Sy and Tsundoku plus added personal flair.
     icon: <img src="/forks/logo-komikku.webp" alt="Komikku Logo" height="32" width="32">
     link: /forks/Komikku/
 ---
@@ -36,6 +36,6 @@ import { VPHomeFeatures } from "vitepress/theme"
 
 # Endorsed Forks
 
-Forks are alternative versions of Mihon with exclusive features.
+Forks are alternative versions of Tsundoku with exclusive features.
 
 <VPHomeFeatures />

@@ -1,6 +1,6 @@
 ---
 title: Extensions
-description: Extension list for Mihon.
+description: Extension list for Tsundoku.
 lastUpdated: false
 editLink: false
 prev: false

@@ -6,13 +6,13 @@ description: Understanding Storage Permissions.
 
 # Storage location
 
-Mihon manages several things within a selected storage location, including automatic backups, chapter downloads, and the Local source.
+Tsundoku manages several things within a selected storage location, including automatic backups, chapter downloads, and the Local source.
 
 ::: tip Selecting a storage location
 Keep the following in mind when setting up your Storage location:
-* Create a "Mihon" folder at the top-level of your storage (ex. `/Internal Storage/Mihon/`).
-* Do not use your device's system folders (such as "**Documents**" or "**Downloads**"), they are restricted by Android and will cause issues when Mihon tries to access them.
-* When selecting your storage location during the setup process, give access to the "Mihon" folder, not the folders within.
+* Create a "Tsundoku" folder at the top-level of your storage (ex. `/Internal Storage/Tsundoku/`).
+* Do not use your device's system folders (such as "**Documents**" or "**Downloads**"), they are restricted by Android and will cause issues when Tsundoku tries to access them.
+* When selecting your storage location during the setup process, give access to the "Tsundoku" folder, not the folders within.
 :::
 
 The following illustrates the folder structure:
@@ -124,7 +124,7 @@ If you need to change your storage location or have moved files around from outs
 
 Since Android 11, most apps are enforced to use [Scoped Storage](https://developer.android.com/about/versions/11/privacy/storage) for better security for users so that apps cannot read everything on the device.
 
-**Scoped Storage**'s introduction affects various storage-related functions in **Mihon**.
+**Scoped Storage**'s introduction affects various storage-related functions in **Tsundoku**.
 These functions may become slower due to **Scoped Storage**'s inherent latency, as discussed in detail [here on Scoped Storage](https://www.xda-developers.com/android-q-storage-access-framework-scoped-storage/).
 
 This can impact tasks like deleting chapters, library loading times, accessing local files like downloads or the local source, and more. As always, using internal storage is recommended over SD cards if latency is of concern.

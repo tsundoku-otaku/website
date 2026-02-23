@@ -7,18 +7,18 @@ description: Frequently Asked Questions about Extensions.
 # Extensions
 Frequently Asked Questions about Extensions.
 
-## Where can I find repositories/extensions for Mihon?
-Mihon does not have, associate, or provide any repositories or extensions.
+## Where can I find repositories/extensions for Tsundoku?
+Tsundoku does not have, associate, or provide any repositories or extensions.
 
 ::: danger Caution
 Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
 :::
 
 ## What are some recommended extensions and sources?
-Mihon is bring-your-own-content and does not offer anything.
+Tsundoku is bring-your-own-content and does not offer anything.
 
 ::: info Disclaimer
-**Mihon** isn't responsible for slow, down, missing chapters, or subpar image quality of sources as it doesn't host the content.
+**Tsundoku** isn't responsible for slow, down, missing chapters, or subpar image quality of sources as it doesn't host the content.
 :::
 
 ## Enabling third-party installations
@@ -46,8 +46,8 @@ When prompted while installing your first extension, allow unknown apps installa
 ::::
 
 ## How do I uninstall an extension?
-Uninstall extensions like regular apps: through device settings or in **Mihon**.
+Uninstall extensions like regular apps: through device settings or in **Tsundoku**.
 
 ::: tip Uninstalling an extension
-In **Mihon**, uninstall an extension via <nav to="extensions">, then tap **Uninstall** on the chosen extension.
+In **Tsundoku**, uninstall an extension via <nav to="extensions">, then tap **Uninstall** on the chosen extension.
 :::
