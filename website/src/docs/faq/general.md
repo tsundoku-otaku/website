@@ -20,7 +20,7 @@ Porting is difficult due to the separate codebases of iOS and Android apps.
 Any app proclaiming to be "**Tsundoku for iOS**" is not by us and should be treated as a scam.
 
 ## What is Tsundoku Beta?
-**Tsundoku Beta** (**みβ**) is the latest preview version of the app.
+**Tsundoku Beta** (**囤β**) is the latest preview version of the app.
 It showcases potential upcoming features, but it's more prone to bugs and crashes.
 
 ::: warning CAUTION
@@ -29,6 +29,9 @@ While it's ideal for users seeking the latest **Tsundoku** experience, it's esse
 
 ## Can I read light novels?
 **Tsundoku** can read light novels; it's a text parser.
+
+## Can I read manga?
+**Tsundoku** can read manga; it inherits most of the features of Mihon..
 
 ## Can I stream anime?
 **Tsundoku** isn't designed for anime streaming.

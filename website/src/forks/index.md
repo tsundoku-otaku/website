@@ -1,6 +1,6 @@
 ---
 title: Endorsed Forks
-description: Forks are alternative versions of Tsundoku with exclusive features.
+description: Forks are alternative versions of Mihon with exclusive features.
 lastUpdated: false
 editLink: false
 prev: false
@@ -8,6 +8,10 @@ next: false
 pageClass: forks
 
 features:
+  - title: Mihon
+    details: The Original!
+    icon: <img src="/forks/logo-mihon.webp" alt="Mihon Logo" height="32" width="32">
+    link: https://mihon.app/
   - title: TachiyomiJ2K
     details: New design approach along with several other enhancements
     icon: <img src="/forks/logo-j2k.webp" alt="TachiyomiJ2K Logo" height="32" width="32">
@@ -36,6 +40,6 @@ import { VPHomeFeatures } from "vitepress/theme"
 
 # Endorsed Forks
 
-Forks are alternative versions of Tsundoku with exclusive features.
+Forks are alternative versions of Mihon with exclusive features.
 
 <VPHomeFeatures />
